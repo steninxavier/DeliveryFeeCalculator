@@ -87,5 +87,7 @@ input::-webkit-inner-spin-button {
   .dateTime {
     height: 31px;
     width: 175px;
+  }h1{
+    flex-direction: column;
   }
 }
