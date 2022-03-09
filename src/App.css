@@ -83,7 +83,6 @@ input::-webkit-inner-spin-button {
     padding: 5px;
     justify-content: flex-start;
     border:none;
-    flex-direction: row;
   }
   .dateTime {
     height: 31px;
