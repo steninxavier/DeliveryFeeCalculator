@@ -78,7 +78,7 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 480px) {
   .container {
     padding: 100px;
     justify-content: flex-start;
